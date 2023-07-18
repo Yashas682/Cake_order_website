@@ -1,0 +1,27 @@
+body,html {
+    height: 100%;
+   }
+  
+  body {
+    padding-top: 50px;
+    background: radial-gradient(#fff, #ffd6d6);
+  }
+  .navbar{
+    background: radial-gradient(#fff, #ffd6d6);
+  
+  } 
+  .navbar-inverse{
+    background: radial-gradient(#fff, #ffd6d6);
+  
+  } 
+  .navbar-fixed-top{
+    background: radial-gradient(#fff, #ffd6d6);
+  
+  } 
+  .navigation-clean-search{
+    background: radial-gradient(#fff, #ffd6d6);
+  
+  }
+  .collapse{
+  background: radial-gradient(#fff, #ffd6d6);
+  }
